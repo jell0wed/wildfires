@@ -1,0 +1,26 @@
+#!/bin/bash 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1992.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1993.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1994.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1995.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1996.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1997.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1998.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_1999.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2000.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2001.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2002.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2003.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2004.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2005.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2006.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2007.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2008.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2009.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2010.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2011.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2012.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2013.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2014.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2015.nc 
+wget -nc -c -nd http://www.northwestknowledge.net/metdata/data/sph_2016.nc 
